@@ -8,6 +8,7 @@
 
 Thanks for reading :)<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=facundonahuelcruz&layout=compact)](https://github.com/facundonahuelcruz/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=facundonahuelcruz&theme=tokyonight)
+
 
 [Currently working on my portfolio design]
