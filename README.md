@@ -1,7 +1,5 @@
 # Hey there, welcome to my profile.
 
-![banner](https://user-images.githubusercontent.com/126115456/230539468-66eb5326-52dc-4f6b-9155-60ee2cfa6f01.gif)
-
 • I'm a 21 y/o self taught front-end developer from Argentina<br>
 • Currently masterizing my Javascript skills and learning React.js.<br>
 • Searching a job as a front-end developer, planning to be a full-stack developer in near future.<br>
