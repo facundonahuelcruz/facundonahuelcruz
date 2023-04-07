@@ -12,7 +12,7 @@
 
 [Currently working on my portfolio website, sorry]
 
-# About me.
+# More about me.
 • Some few jobs that i did as a teenager were being a recording assistant, audio engineering (Mixing and Mastering) and a PC technician.<br>
 • Also i'm a multi-genre music producer, vocalist and audiophile.<br>
 • I love to play videogames but now i share that passion with coding.<br>
