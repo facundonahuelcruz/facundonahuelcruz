@@ -13,7 +13,6 @@
 
 ![1680634115696](https://user-images.githubusercontent.com/126115456/230551602-1da2c5c8-3466-4549-bad6-f3947c84ea12.jpg)
 V1 of a musical calculator, it plays a Major scale note everytime you press a number.<br>
-Work in progress, planning to add more scales and FX too.<br>
 
 ## Portfolio.
 
