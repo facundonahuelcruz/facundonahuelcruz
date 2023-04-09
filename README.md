@@ -4,7 +4,7 @@
 • Searching a job as a front-end developer.<br>
 • Planning to be a full-stack developer in near future.<br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=facundonahuelcruz&theme=tokyonight)
 
