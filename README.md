@@ -1,8 +1,8 @@
 # Hey there, welcome to my profile.
 • I'm a self taught front-end developer, multi-genre music producer and a PC technician from Argentina.<br>
-• I'm interested on webpage development and experimental projects.<br>
-• Currently masterizing my Javascript skills and learning React.js.<br>
-• Actively searching a job in a company as a front-end developer.<br>
+• Actually I'm interested on webpage development.<br>
+• Currently masterizing my Javascript skills and React.js.<br>
+• Actively searching a job in a company.<br>
 • Planning to be a full-stack developer in near future.<br>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nodejs)](https://skillicons.dev)
