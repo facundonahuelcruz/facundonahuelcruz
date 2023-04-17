@@ -1,9 +1,8 @@
 # Hey there, welcome to my profile.
 ### • I'm a self taught front-end developer, multi-genre music producer, audio engineer and a PC technician.<br>
 ### • Actively searching a remote job in a company.<br>
-### • Currently living in Argentina.<br>
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,react,js,css)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=facundonahuelcruz&theme=tokyonight)
 
@@ -13,8 +12,8 @@
 ![1680634115696](https://user-images.githubusercontent.com/126115456/230551602-1da2c5c8-3466-4549-bad6-f3947c84ea12.jpg)
 V1 of a calculator that plays a Major scale note everytime you press a number. Available in my repository.<br>
 
-## Portfolio.
-[Currently working on my portfolio website, sorry]
+## Website.
+[Currently working on my website, sorry]
 
 ## Setup.
 • <b>CPU:</b> Ryzen 5 1600.<br>
