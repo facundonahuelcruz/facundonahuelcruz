@@ -3,7 +3,7 @@
 ### • Actively searching a remote job in a company.<br>
 ### • Currently living in Argentina.<br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,css)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=facundonahuelcruz&theme=tokyonight)
 
