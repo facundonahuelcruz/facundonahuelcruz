@@ -16,11 +16,6 @@ V1 of a calculator that plays a Major scale note everytime you press a number. A
 ## Portfolio.
 [Currently working on my portfolio website, sorry]
 
-## About me.
-• Some few jobs that i did as a teenager were being an audio engineer, english/spanish translator and a PC technician.<br>
-• As a music producer and vocalist, i can make my own SFX and voice phrases for my projects.<br>
-• I love to play videogames but now i share that passion with coding.<br>
-
 ## Setup.
 • <b>CPU:</b> Ryzen 5 1600.<br>
 • <b>GPU:</b> RX 570.<br>
