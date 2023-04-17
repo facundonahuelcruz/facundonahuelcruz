@@ -1,6 +1,6 @@
 # Hey there, welcome to my profile.
 ### • I'm a self taught Front-end developer, multi-genre music producer, audio engineer and a PC technician.<br>
-### • Actively searching a remote job in a company as a Front-end dev.<br>
+### • Actively searching a remote job in a foreign company as a Front-end dev.<br>
 
 [![My Skills](https://skillicons.dev/icons?i=html,js,react,css)](https://skillicons.dev)
 
