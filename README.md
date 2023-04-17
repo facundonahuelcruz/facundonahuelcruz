@@ -10,7 +10,7 @@
 ### • MusiCalculator.
 
 ![1680634115696](https://user-images.githubusercontent.com/126115456/230551602-1da2c5c8-3466-4549-bad6-f3947c84ea12.jpg)
-V1 of a calculator that plays a Major scale note everytime you press a number. Available in my repository.<br>
+V1 of a calculator that plays a Major scale note everytime you press a number. Available in my repository.
 
 ## Website.
 [Currently working on my website, sorry]
