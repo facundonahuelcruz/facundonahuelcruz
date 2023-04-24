@@ -1,16 +1,10 @@
 # Hey there, welcome to my profile.
-### • I'm a self taught Front-end developer, multi-genre music producer, audio engineer and a PC technician.<br>
-### • Actively searching a remote job in a foreign company as a Front-end dev.<br>
+I'm a self taught Front-end developer, multi-genre music producer, audio engineer and a PC technician.<br>
+Actively searching a remote job in a foreign company as a Front-end dev.<br>
 
 [![My Skills](https://skillicons.dev/icons?i=html,js,react,css)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=facundonahuelcruz&theme=tokyonight)
-
-## Projects.
-### • MusiCalculator.
-
-![1680634115696](https://user-images.githubusercontent.com/126115456/230551602-1da2c5c8-3466-4549-bad6-f3947c84ea12.jpg)
-V1 of a calculator that plays a Major scale note everytime you press a number. Available in my repository.
 
 ## Website.
 [Currently working on my website, sorry]
